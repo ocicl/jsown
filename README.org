@@ -1,0 +1,9 @@
+* jsown
+
+Reader/writer for the JSON format in common lisp.
+
+|---------+----------------------------------------------|
+| source  | git:https://github.com/madnificent/jsown.git |
+| commit  | 744c440                                      |
+| systems | jsown                                        |
+|---------+----------------------------------------------|
